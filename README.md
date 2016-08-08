@@ -1,0 +1,2 @@
+# TrainingPython
+Python is great!
